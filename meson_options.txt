@@ -1,0 +1,3 @@
+option('build-plugin', type : 'boolean', value : true, description : 'Build the plugin')
+option('build-library', type : 'boolean', value : true, description : 'Build the library')
+option('build-tests', type : 'boolean', value : true, description : 'Build tests')
